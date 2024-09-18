@@ -1,2 +1,2 @@
 # Sundown-project
-SUNDOWN.
+SUNDOWN
